@@ -28,14 +28,3 @@ The dropdown menu should take up the entire width of the browser window. Make su
 
 11.  Create a single really tall section that will use the Bootstrap Grid and take up the entire width of the browser window (minus some margins, of course) for all views: desktop, tablet, and mobile. To make the section really tall, you can either fill it out with a LOT of text or simply set its height to something like 1000px. It needs to be tall enough to cause scrolling down to be required to view the bottom of the section. Make sure its background color is set to distinguish it from the rest of the content. (_Hint: don't forget to have an element with a class='container' or class='container-fluid' wrapping your grid. Remember that to have the grid do something "always", i.e., no matter what browser window size, use the `col-xs-`... classes. In this case, since we want the section to take up the entire row, use `col-xs-12`._)
 
-
-Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
-
- ![Desktop and Tablet](images/desktop.png)
-
-
-Here is the mockup illustration of the mobile view (only required graded parts are shown):
-
- ![mobile collapsed](images/menu-collapsed.png)
-
- ![mobile expanded](images/mobile-expanded.png)
